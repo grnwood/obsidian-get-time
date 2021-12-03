@@ -2,6 +2,8 @@
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
+![gettime_demo](https://github.com/grnwood/obsidian-get-time/raw/master/preview.gif)
+
 I needed to recreate my system for tracking buckets of time on any daily note page.  The Tracker plugin and other advanced solutions were just too much.
 
 I would keep my buckets ongoing, say on a daily note, throughout the day.  Often I'd like to see where I am at with my day by summary.
